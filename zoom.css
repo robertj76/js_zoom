@@ -1,0 +1,11 @@
+body {
+background-color: #201a68;
+}
+.zoom{
+    width: 316px;
+    height: 108px;
+    background-color:#201a68;
+    position : absolute;
+    left: 45%;
+    top: 45%;
+}
